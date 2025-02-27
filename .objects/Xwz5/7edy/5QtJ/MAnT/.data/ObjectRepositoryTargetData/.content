@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8FilXY51eUWYJGGMZScYTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="47bcf4df-387d-4c1b-9db1-7882040a7cd0" CvTextArea="1026, 419, 81, 13" CvTextArgument="Last Name" CvType="Text" DesignTimeRectangle="1028, 416, 79, 21" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Last Name' tag='LABEL' type='' class='' check:innerText='Last Name' /&gt;" Guid="47c486ce-a92d-48b2-b1b9-3f21be969384" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="15bbf6046d05f62483d8ecdcb0b7f264.png" xmlns="">0FqURWZMX4EaTZ0QwsfRVow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Latest Articles on RPA News and Automation Insights  UiPath Blog",
+  "Type": "App",
+  "Id": "J3t6g7MIHUme_GiwP_lGDA",
+  "Reference": "xM6Ir14DDUKzG7YWaLQdoQ/J3t6g7MIHUme_GiwP_lGDA",
+  "Created": "2025-02-26T17:03:42.0550339Z",
+  "Updated": "2025-02-26T17:03:42.0550339Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

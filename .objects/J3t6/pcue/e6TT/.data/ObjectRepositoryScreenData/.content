@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="VFmrVOcn30SbIvr0FW9tSQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGLSURBVFhH7ZcxSwNBFIRTiJVYiMxeJKWVSEgtViJvNxIs8gOChbWVla2FBLESC0srsbC0ELGysLJIaS1iJRYiwtuTkw23l71FRXPJRfEGppl5b/fjICwpMSEapUt+kLd/HUCbJZpDtbnjUwCJZmnIiiH+AYAm0WLCORP2WQaTNs8FICRUvXPbtvs2ABMOmXAZey053RMTjntzoruvSTRS5xJOkvkfANw43bbNfTHhrjcnNkwWyWCCCZ04f2WJ5WQ+DwCjqB6MsxQ1rcrTqfm8AEIpqqEKasZalaeS+bwAmPBscy1FK8kLgALgLwFcOd2BzX25FzGJ9Y/yfgFOne7C5q5ChRl3X0s0bJcZQBM2ne4tlOV521kxYTcFsFKB02UDYIUKE7TT35tPzAo1LcUCE/YMmNOf2d3uflaA+JCdVP+5X1iKOW83O0BUnx2Ln2X/QtePrMSSu2c0EAArJiwy4YgJt0x4YsJD/CvZ0oTkoXHFhOv4Se5oKVaTvB+AQaoA+Bpg5H9MRuAC4B0Ut7NvIekU3gAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Latest Articles on RPA News and Automation Insights | UiPath Blog' /&gt;" Title="Latest Articles on RPA News and Automation Insights | UiPath Blog" Url="https://www.uipath.com/blog" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="662cdaa5dfcbbb61c5a004893b09cead.jpg" xmlns="">0tgWgkjAYD06kwijSZn2tzg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
